@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ShadowX
+- 👋 Hi, I’m Devil
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ..."official.shadowx3@gmail.com"
+- 🌱 I’m currently learning ...NodeJs To make Discord Bot
+- 📫 How to reach me ... **Mail** `contact.devilyt@gmail.com`
 
-<!---
-PHANTOM-KILL/PHANTOM-KILL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [INSTAGRAM](https://www.instagram.com/devil_x_playz/)
